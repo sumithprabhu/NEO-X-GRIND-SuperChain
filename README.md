@@ -11,10 +11,12 @@ Finally, Superfluid IDA is used to distribute the prize money to the winner of t
 
 Overall, this website provides a seamless and secure platform for conducting lotteries. By leveraging the latest blockchain technologies, it ensures that the entire process is transparent, fair, and efficient.
 
+SuperChain contract is deployed on NeoX Testnet. Contract Address: 0xcF8f0Fee34f043B677dCe7225cB4Eb03c4359013 , View contract [here](./src//Components/Contract/contract.sol)
+
 Features:
 -
 - No human intervention.
-- If Lottery quota is full , result is processed after every 15 minutes interval.
+- If Lottery quota is full , result is processed after every 10xcF8f0Fee34f043B677dCe7225cB4Eb03c43590135 minutes interval.
 - Real randomness in result.
 - Instant claim for prize pool winners.
 
